@@ -1,5 +1,5 @@
 # LIRI
-node.js highlight
+node.js 
 
 ## Overview
 
@@ -7,8 +7,8 @@ node.js highlight
 
 ## Features
 
-- [x] LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
-- [x] In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
+-  LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+-  In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
 
 ## Node packages used:
 
@@ -31,6 +31,8 @@ _.env file should contain following:_
 ![Image of .env file](/images/example/dotenv.png/)
 
 ## Demo
+
+**https://drive.google.com/file/d/1Fbv009qaub2dNMkLmrT8SU1xifthff21/view**
 
 * node liri.js concert-this "artist/band name here"
 
