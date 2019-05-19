@@ -5,12 +5,9 @@ node.js
 
 **LIRI** works similar to iphone's SIRI, although instead of speech interpretation, LIRI is a Language Interpretation and Recognition Interface. **LIRI** is a command line node application that receives parameters and returns specified data.
 
-## Features
+- will search Concerts, songs or movies.
 
--  LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
--  In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
-
-## Node packages used:
+## Node:
 
 * Node-Spotify-API
 * Axios
@@ -22,11 +19,13 @@ node.js
 * OMDB API
 * Bands in Town API
 
-# **ATTENTIONt**
+# **ATTENTION**
 **_you must create a .env file containing spotify API keys. You can obtain keys from spotify [here]( https://developer.spotify.com/my-applications/)_**
 
-_.env file must be created in the rooted files **example below**_
-![Image of .env file location](/img/2.png/)
+_.env file must be created in the rooted files
+**example below**
+_![Image of .env file location](/img/2.png/)
+
 _.env file should contain following:_
 ![Image of .env file](/img/1.png/))
 
