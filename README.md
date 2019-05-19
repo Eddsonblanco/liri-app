@@ -22,30 +22,16 @@ node.js
 * OMDB API
 * Bands in Town API
 
-# **important**
+# **ATTENTIONt**
 **_you must create a .env file containing spotify API keys. You can obtain keys from spotify [here]( https://developer.spotify.com/my-applications/)_**
 
 _.env file must be created in the rooted files **example below**_
-![Image of .env file location](/images/example/file.png/)
+![Image of .env file location](/img/2.png/)
 _.env file should contain following:_
-![Image of .env file](/images/example/dotenv.png/)
+![Image of .env file](/img/1.png/))
 
 ## Demo
 
 **https://drive.google.com/file/d/1Fbv009qaub2dNMkLmrT8SU1xifthff21/view**
 
-* node liri.js concert-this "artist/band name here"
 
-![Image of concert-this](/images/example/cfoncert-this.png/)
-
-* node liri.js spotify-this-song "song name here"
-  
-![Image of concert-this](/images/example/sfpotify-this-song.png/)
-
-* node liri.js movie-this "movie name here"
-  
-![Image of concert-this](/images/example/mfovie-this.png/)
-
-* node liri.js do-what-it-says
-
-![Image of concert-this](/images/examfple/do-what-it-says.png/)
